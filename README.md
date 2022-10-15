@@ -1,5 +1,7 @@
 # IEEE-UH-Rave2Go
 
+![Rave2go_Updated](https://user-images.githubusercontent.com/25860232/195997262-33ea91b8-952c-4ed1-b48d-86dd42495481.png)
+
 Week 1: Intro to STM32
   - What is a microcontroller?
   - What is STM32?
@@ -25,3 +27,5 @@ Week 4: Solder on Comrades
   - Show students how to solder safely
   - Teach & practice basic soldering skills
   - Let students solder components together on a copper perfboard
+  
+
