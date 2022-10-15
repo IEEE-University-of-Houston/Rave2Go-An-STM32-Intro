@@ -1,4 +1,4 @@
-# IEEE-UH-Rave2Go
+# Rave2Go
 
 ![Rave2go_Updated](https://user-images.githubusercontent.com/25860232/195997262-33ea91b8-952c-4ed1-b48d-86dd42495481.png)
 
