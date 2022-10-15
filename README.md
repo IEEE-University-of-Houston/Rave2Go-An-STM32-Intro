@@ -11,6 +11,8 @@ Week 1: Intro to STM32
       - What are variables, conditional statements, methods?
   - Let students code a blinking LED project
 
+![Rave2Go_Session_2](https://user-images.githubusercontent.com/25860232/195998130-08edfeb0-eb30-4636-92e1-5680c82fe9d6.png)
+
 Week 2: UART & constructing the MP3 Player
   - What are communication methods?
   - What is UART?
