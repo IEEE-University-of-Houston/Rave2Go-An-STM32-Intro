@@ -2,7 +2,7 @@
 
 ![Rave2go_Updated](https://user-images.githubusercontent.com/25860232/195997262-33ea91b8-952c-4ed1-b48d-86dd42495481.png)
 
-Week 1: Intro to STM32
+Session 1: Intro to STM32
   - What is a microcontroller?
   - What is STM32?
   - Present an example of a circuit diagram
@@ -13,7 +13,7 @@ Week 1: Intro to STM32
 
 ![Rave2Go_Session_2](https://user-images.githubusercontent.com/25860232/195998130-08edfeb0-eb30-4636-92e1-5680c82fe9d6.png)
 
-Week 2: UART & constructing the MP3 Player
+Session 2: UART & constructing the MP3 Player
   - What are communication methods?
   - What is UART?
   - Show students how to wire and program the MP3 module via UART
@@ -22,10 +22,10 @@ Week 2: UART & constructing the MP3 Player
   - How does a speaker work?
   - Let students wire the speaker to their MP3 Player
 
-Week 3: Light it up!
+Session 3: Light it up!
   - Students will connect and program a LED matrix to the STM32
  
-Week 4: Solder on Comrades
+Session 4: Solder on Comrades
   - Show students how to solder safely
   - Teach & practice basic soldering skills
   - Let students solder components together on a copper perfboard
