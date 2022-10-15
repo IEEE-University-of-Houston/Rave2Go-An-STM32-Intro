@@ -10,6 +10,13 @@ Week 1: Intro to STM32
   - Let students code a blinking LED project
 
 Week 2: UART & constructing the MP3 Player
+  - What are communication methods?
+  - What is UART?
+  - Show students how to wire and program the MP3 module via UART
+  - What are buttons?
+  - Teach students how to use input sources on a microcontroller
+  - How does a speaker work?
+  - Let students wire the speaker to their MP3 Player
 
 Week 3: Light it up!
   - Students will connect and program a LED matrix to the STM32
