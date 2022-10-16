@@ -6,7 +6,7 @@ This workshop serves as an introduction to the ST Microcontroller family and the
 ![Rave2go(3)](https://user-images.githubusercontent.com/25860232/196050527-c29515f6-4a42-48fa-b04e-8e4bf05a8d07.png)
 
 Session 1: Intro to STM32 (10/13/22)
-  - What is a microcontroller?
+  - What is a microcontroller (MCU)?
   - What is STM32?
   - Present an example of a circuit diagram
   - Set up the STM32 IDE and show how to configure STM32 pins
@@ -18,20 +18,20 @@ Session 1: Intro to STM32 (10/13/22)
 ![Rave2Go_Session_2](https://user-images.githubusercontent.com/25860232/195998130-08edfeb0-eb30-4636-92e1-5680c82fe9d6.png)
 
 Session 2: UART & constructing the MP3 Player (10/20/22)
-  - What are communication methods?
-  - What is UART?
-  - Show students how to wire and program the MP3 module via UART
-  - What are buttons?
-  - Teach students how to use input sources on a microcontroller
-  - How does a speaker work?
-  - Let students wire the speaker to their MP3 Player
+- What are MCU communication methods?
+- What is UART?
+- Show students how to wire and program the MP3 module via UART
+- What are buttons?
+- Input sources on a MCU
+- How does a speaker work?
+- Let students wire the speaker to their MP3 Player
 
 Session 3: Light it up! (10/27/22)
-  - Students will connect and program a LED matrix to the STM32
+- Program an LED Matrix with the STM32 MCU
  
 Session 4: Solder on Comrades (11/03/22)
-  - Show students how to solder safely
-  - Teach & practice basic soldering skills
-  - Let students solder components together on a copper perfboard
-  
-
+- Intro to Soldering
+- Soldering Safety Skills
+- Wire project components
+- Perf board connection
+- Testing
