@@ -17,7 +17,7 @@ Session 1: Intro to STM32 (10/13/22)
 
 ![Rave2Go_Session_2](https://user-images.githubusercontent.com/25860232/195998130-08edfeb0-eb30-4636-92e1-5680c82fe9d6.png)
 
-Session 2: UART & constructing the MP3 Player (10/20/22)
+Session 2: UART & Constructing the MP3 Player (10/20/22)
 - What are MCU communication methods?
 - What is UART?
 - Show students how to wire and program the MP3 module via UART
