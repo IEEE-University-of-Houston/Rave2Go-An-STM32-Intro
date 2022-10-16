@@ -3,7 +3,7 @@ Workshop participants will build and program their own MP3 player using a STM32 
 
 This workshop serves as an introduction to the ST Microcontroller family and the UART communication protocol. Students will also learn how to construct circuits on a breadboard from a circuit schematic, common electrical components, C programming for STM32 Microcontollers, and basic soldering skills. No prior knowledge required!
  
-![Rave2go_Updated](https://user-images.githubusercontent.com/25860232/195997262-33ea91b8-952c-4ed1-b48d-86dd42495481.png)
+![Rave2go(3)](https://user-images.githubusercontent.com/25860232/196050527-c29515f6-4a42-48fa-b04e-8e4bf05a8d07.png)
 
 Session 1: Intro to STM32 (10/13/22)
   - What is a microcontroller?
