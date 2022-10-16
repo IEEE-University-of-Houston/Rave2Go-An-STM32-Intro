@@ -13,6 +13,7 @@ Session 1: Intro to STM32 (10/13/22)
   - What is the C programming language?
       - What are variables, conditional statements, methods?
   - Let students code a blinking LED project
+  - Recording: https://youtu.be/tsHh5xKJ2KI
 
 ![Rave2Go_Session_2](https://user-images.githubusercontent.com/25860232/195998130-08edfeb0-eb30-4636-92e1-5680c82fe9d6.png)
 
