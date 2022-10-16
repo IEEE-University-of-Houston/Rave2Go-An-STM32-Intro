@@ -1,4 +1,4 @@
-# Rave2Go
+# Rave2Go: An STM32 Intro
 Workshop participants will build and program their own MP3 player using a STM32 Microcontroller and an MP3 Module. The MP3 player will play songs contained on an included storage card and a grid of LED's will react to the music that is played similar to an audio visualizer.
 
 This workshop serves as an introduction to the ST Microcontroller family and the UART communication protocol. Students will also learn how to construct circuits on a breadboard from a circuit schematic, common electrical components, C programming for STM32 Microcontollers, and basic soldering skills. No prior knowledge required!
