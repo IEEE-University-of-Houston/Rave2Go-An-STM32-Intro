@@ -17,7 +17,7 @@ Session 1: Intro to STM32 (10/13/22)
 
 ![Rave2Go_Session_2](https://user-images.githubusercontent.com/25860232/195998130-08edfeb0-eb30-4636-92e1-5680c82fe9d6.png)
 
-Session 2: UART & Constructing the MP3 Player (10/20/22)
+Session 2: UART & Constructing the MP3 Player (10/27/22)
 - What are MCU communication methods?
 - What is UART?
 - Show students how to wire and program the MP3 module via UART
@@ -26,10 +26,10 @@ Session 2: UART & Constructing the MP3 Player (10/20/22)
 - How does a speaker work?
 - Let students wire the speaker to their MP3 Player
 
-Session 3: Light it up! (10/27/22)
+Session 3: Light it up! (11/03/22)
 - Program an LED Matrix with the STM32 MCU
  
-Session 4: Solder on Comrades (11/03/22)
+Session 4: Solder on Comrades (11/10/22)
 - Intro to Soldering
 - Soldering Safety Skills
 - Wire project components
