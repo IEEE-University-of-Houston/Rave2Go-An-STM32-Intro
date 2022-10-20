@@ -15,7 +15,7 @@ Session 1: Intro to STM32 (10/13/22)
   - Let students code a blinking LED project
   - Recording: https://youtu.be/tsHh5xKJ2KI
 
-![Rave2Go_Session_2](https://user-images.githubusercontent.com/25860232/195998130-08edfeb0-eb30-4636-92e1-5680c82fe9d6.png)
+![Rave2Go_Session_2_Flyer](https://user-images.githubusercontent.com/25860232/197016488-c79506b4-5711-48c0-b160-526d31d388c4.png)
 
 Session 2: UART & Constructing the MP3 Player (10/27/22)
 - What are MCU communication methods?
@@ -25,6 +25,8 @@ Session 2: UART & Constructing the MP3 Player (10/27/22)
 - Input sources on a MCU
 - How does a speaker work?
 - Let students wire the speaker to their MP3 Player
+
+![Rave2Go_Session_3_Flyer](https://user-images.githubusercontent.com/25860232/197016543-b2b117b0-c351-4a87-9049-82f96baaabab.png)
 
 Session 3: Light it up! (11/03/22)
 - Program an LED Matrix with the STM32 MCU
